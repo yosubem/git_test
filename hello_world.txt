@@ -1,0 +1,2 @@
+This is my first odin repo!
+I hope I will understand the things we do here!
